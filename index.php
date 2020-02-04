@@ -1,4 +1,4 @@
-    <!DOCTYPE html>
+<!DOCTYPE html>
     <html lang="en">
     <head>
         <meta charset="UTF-8">
@@ -9,6 +9,7 @@
     <body>
     <header>
     <h1>git tester</h1>
+    <h2>TEST TEST TEST</h2>
     </header>
         <a href="./Example/table.php">Table of countries</a>
     </body>
